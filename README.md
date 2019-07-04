@@ -1,10 +1,10 @@
-# discourse-mozilla-theme
+# Discourse Mozilla Sub Theme
 
-*Theme used on discourse.mozilla.org*
+Based on (and forked from) heme used on *discourse.mozilla.org*
 
-## Bug reports
+## Installation
 
-Bug reports should be filed [by following the process described here](https://discourse.mozilla.org/t/where-do-i-file-bug-reports-about-discourse/32078).
+Read how to [install a Discourse theme](https://meta.discourse.org/t/how-do-i-install-a-theme-or-theme-component/63682) from a git repo.
 
 ## Licence
 
