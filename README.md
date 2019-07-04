@@ -1,6 +1,6 @@
 # Discourse Mozilla Sub Theme
 
-Based on (and forked from) heme used on *discourse.mozilla.org*
+Based on (and forked from) theme used on *discourse.mozilla.org*
 
 ## Installation
 
