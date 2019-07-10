@@ -126,6 +126,7 @@
 }
 
 .d-header .extra-info-wrapper {
+    margin-top: -25px;
 
     .title-wrapper {
 
@@ -133,8 +134,7 @@
             width: 100%;
             max-width: none;
             position: absolute;
-            left: 0px;
-            top: 70px;
+            top: 35px;
         }
 
         .badge-wrapper {
@@ -162,7 +162,6 @@
 
         h1 {
             font-size: 2.14em;
-            line-height: 70px;
         }
 
 /* Hide tags from header */
