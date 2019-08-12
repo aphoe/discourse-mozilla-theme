@@ -187,3 +187,12 @@
     right: 45px;
   }
 }
+
+/* Onebox styling */
+aside.onebox{
+    border-width: 1px;
+    transition: 1s all;
+}
+aside.onebox.twitterstatus:hover {
+    border-color: #00aced;
+}
