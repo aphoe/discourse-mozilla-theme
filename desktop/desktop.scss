@@ -193,6 +193,35 @@ aside.onebox{
     border-width: 1px;
     transition: 1s all;
 }
+aside.onebox.twitterstatus {
+    a {
+        text-decoration: none;        
+        color: #1B95E0;
+    }
+    
+    a:hover {
+        text-decoration: underline;
+    }
+    
+    header {
+        a {
+            color: #1DA1F2;
+        }
+        
+        a:hover {
+            text-decoration: none;
+        }
+    }
+}
 aside.onebox.twitterstatus:hover {
     border-color: #00aced;
+}
+aside.onebox.whitelistedgeneric {
+    border-width: 0;
+    border-left: 5px solid #7FBD00;
+    
+    a {
+        text-decoration: none;
+        font-weight: 500;
+    }
 }
