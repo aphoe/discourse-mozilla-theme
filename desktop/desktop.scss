@@ -195,21 +195,31 @@ aside.onebox{
 }
 aside.onebox.twitterstatus {
     a {
-        text-decoration: none;        
-        color: #1B95E0;
+        text-decoration: none !important;        
+        color: #1B95E0 !important;
     }
     
     a:hover {
-        text-decoration: underline;
+        text-decoration: underline !important;
     }
     
     header {
         a {
-            color: #1DA1F2;
+            color: #000 !important;
+            font-weight: 500;
         }
         
         a:hover {
-            text-decoration: none;
+            text-decoration: none !important;
+        }
+    }
+    
+    h4 {
+        a {
+            color: #000 !important;
+        }        
+        a:hover {
+            text-decoration: none !important;
         }
     }
 }
@@ -219,9 +229,10 @@ aside.onebox.twitterstatus:hover {
 aside.onebox.whitelistedgeneric {
     border-width: 0;
     border-left: 5px solid #7FBD00;
+    padding: 0 25px 0 12px;
     
     a {
-        text-decoration: none;
+        text-decoration: none !important;
         font-weight: 500;
     }
 }
